@@ -1,2 +1,4 @@
-Rich
-Textual
+textual==0.1.18
+rich==12.5.1
+commonmark==0.9.1
+pygments==2.13.0
